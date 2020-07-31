@@ -1,5 +1,5 @@
-#Hi, I am Lucia! 👋🏻 👩🏻‍💻
-Front-end developer in progres
+# Hi, I am Lucia! 👋🏻 👩🏻‍💻
+![Imgur](https://i.imgur.com/7wCakBn.png)
 
 <!--
 **Latialuci/Latialuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
