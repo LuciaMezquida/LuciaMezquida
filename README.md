@@ -1,3 +1,4 @@
+#Hi, I am Lucia! 👋🏻 👩🏻‍💻
 Front-end developer in progres
 
 <!--
