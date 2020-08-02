@@ -1,4 +1,4 @@
-# Hi, I am Lucia! 👋🏻 👩🏻‍💻
+
 ![Imgur](https://i.imgur.com/7wCakBn.png)
 <p>After 13 years in the pharmaceutical world, I decided to develop my passion for creativity and technology. This is how my approach to the FrontEnd world began.</p>
 <h5>Things I have been learning in this journey:</h5>
