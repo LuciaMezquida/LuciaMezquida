@@ -14,8 +14,9 @@
 
 <h5>Certifications</h5>
 <ul>
-  <li>JavaScritpt Algorithms and Data Structures Certification (300 hours)</li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
-  <li>Responsive Web Design Certification (300 hours)</li><a href="https://www.freecodecamp.org/">FreeCodeCamp
+  <li>Front End Libraries Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
+  <li>JavaScritpt Algorithms and Data Structures Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
+  <li>Responsive Web Design Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
 </ul>
 
 <!--
