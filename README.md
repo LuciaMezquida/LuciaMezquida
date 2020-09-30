@@ -5,7 +5,7 @@
 <h5>Things I have been learning in this journey:</h5>
 <ul>
   <li>HTML, HTML5</li>
-  <li>CSS, CSS Flex, CSS Grid</li>
+  <li>CSS, CSS Flex, CSS Grid, Sass</li>
   <li>Responsive web design principles</li>
   <li>Basic JavaScript, ES6</li>
   <li>Regular expressions</li>
