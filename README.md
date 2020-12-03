@@ -1,8 +1,8 @@
 
 ![Imgur](https://i.imgur.com/7wCakBn.png)
 <p>After 13 years in the pharmaceutical world, I decided to develop my passion for creativity and technology. This is how my approach to the FrontEnd world began.</p>
-<p>Currently studying to be FrontEnd Developer at <a href="https://adalab.es/" target="_blank">Adalab Digital</a></p>
-<h5>Things I have been learning in this journey:</h5>
+
+### Things I have been learning in this journey:
 <ul>
   <li>HTML, HTML5</li>
   <li>CSS, CSS Flex, CSS Grid, Sass</li>
@@ -13,8 +13,9 @@
   <li>Object oriented programming</li>
 </ul>
 
-<h5>Certifications</h5>
+### Certifications
 <ul>
+  <li>FrontEnd Developer at <a href="https://adalab.es/" target="_blank">Adalab Digital</a></li>
   <li>Front End Libraries Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
   <li>JavaScritpt Algorithms and Data Structures Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
   <li>Responsive Web Design Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
