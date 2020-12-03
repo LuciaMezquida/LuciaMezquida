@@ -3,15 +3,15 @@
 <p>After 13 years in the pharmaceutical world, I decided to develop my passion for creativity and technology. This is how my approach to the FrontEnd world began.</p>
 
 ### Things I have been learning in this journey:
-<ul>
-  <li>HTML, HTML5</li>
-  <li>CSS, CSS Flex, CSS Grid, Sass</li>
-  <li>Responsive web design principles</li>
-  <li>Basic JavaScript, ES6</li>
-  <li>Regular expressions</li>
-  <li>Basic data structures</li>
-  <li>Object oriented programming</li>
-</ul>
+  - HTML, HTML5
+  - CSS, CSS Flex, CSS Grid, Sass
+  - Responsive web design principles
+  - Basic JavaScript, ES6
+  - Regular expressions
+  - Basic data structures
+  - Object oriented programming
+  - React
+
 
 ### Certifications
 <ul>
