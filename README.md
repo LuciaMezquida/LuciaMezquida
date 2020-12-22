@@ -17,10 +17,17 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
 
 ### Certifications 📜
 
+  - ReactJs: From 0 to deploy following good practices at [CodelyTvPro](https://pro.codely.tv/library/)
   - FrontEnd Developer at <a href="https://adalab.es/" target="_blank">Adalab Digital</a>
   - Front End Libraries Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
   - JavaScritpt Algorithms and Data Structures Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
   - Responsive Web Design Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
+
+### Let's talk
+ 
+![mail](https://img.icons8.com/fluent/20/000000/important-mail.png) <a href='mailto:lucia.mezquida@gmail.com'>Mail me</a>  
+![linkedin](https://img.icons8.com/fluent/20/000000/linkedin-2.png) [Contact me](https://www.linkedin.com/in/luciamezquidajuan/)
+
 
 
 <!--
