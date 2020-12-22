@@ -23,7 +23,7 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
   - JavaScritpt Algorithms and Data Structures Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
   - Responsive Web Design Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
 
-### Let's talk
+### Let's talk 📞
  
 ![mail](https://img.icons8.com/fluent/20/000000/important-mail.png) <a href='mailto:lucia.mezquida@gmail.com'>Mail me</a>  
 ![linkedin](https://img.icons8.com/fluent/20/000000/linkedin-2.png) [Contact me](https://www.linkedin.com/in/luciamezquidajuan/)
