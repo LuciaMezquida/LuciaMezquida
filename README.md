@@ -1,5 +1,8 @@
+<center>
 
 ![Imgur](https://i.ibb.co/0msb4x3/Captura-de-pantalla-2020-12-03-a-las-20-21-23.png)
+
+</center>
 
 After 13 years in the pharmaceutical world, I decided to develop my passion for creativity and technology. This is how my approach to the FrontEnd world began
 
