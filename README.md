@@ -8,7 +8,7 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
 
 ### Things I have been learning in this journey 🚀:
   - HTML, HTML5
-  - CSS, CSS Flex, CSS Grid, Sass
+  - CSS, CSS Flex, CSS Grid, Sass, Bootstrap
   - Responsive web design principles
   - Basic JavaScript, ES6
   - Regular expressions
@@ -16,6 +16,9 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
   - Object oriented programming
   - React
   - Node.js
+  - VS Code, Terminal, Atom, Gulp
+  - Agil, Scrum
+  - Trello, Slack, Zoom, Google Meets
 
 
 ### Certifications 📜
