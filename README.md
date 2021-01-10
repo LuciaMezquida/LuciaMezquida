@@ -8,13 +8,13 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
 
 ### Things I have been learning in this journey 🚀:
   - HTML, HTML5
-  - CSS, CSS Flex, CSS Grid, Sass, Bootstrap
+  - CSS3, CSS Flex, CSS Grid, Sass, Bootstrap
   - Responsive web design principles
   - Basic JavaScript, ES6
   - Regular expressions
   - Basic data structures
   - Object oriented programming
-  - React
+  - React, jQuery
   - Node.js
   - VS Code, Terminal, Atom, Gulp
   - Agil, Scrum
@@ -22,7 +22,7 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
 
 
 ### Certifications 📜
-
+  - Testing: introduction and good practices at [CodelyTvPro](https://pro.codely.tv/library/)
   - ReactJs: From 0 to deploy following good practices at [CodelyTvPro](https://pro.codely.tv/library/)
   - FrontEnd Developer at <a href="https://adalab.es/" target="_blank">Adalab Digital</a>
   - Front End Libraries Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
