@@ -24,12 +24,14 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
  
 <p align="left">
 <a href="https://codepen.io/LuciaMezquida" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="latialuci" height="20" /></a>
-<a href="https://twitter.com/LuciCodes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucicodes" height="20"/></a>
-<a href="https://linkedin.com/in/luciamezquidajuan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luciamezquidajuan" height="20"/></a>
+<a href="https://twitter.com/LuciCodes" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="lucicodes" height="20"/></a>
+<a href="https://linkedin.com/in/luciamezquidajuan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luciamezquidajuan" height="20"/></a>
 <a href="https://www.hackerrank.com/lucia_mezquida" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lucia_mezquida" height="20"/></a>
 </p>
-<p align="left">
+
+
+
   
 ![Twitter Follow](https://img.shields.io/twitter/follow/LuciCodes?logoColor=%007ACC&style=social)   [![Github](https://img.shields.io/github/followers/LuciaMezquida?label=Follow&style=social)](https://github.com/LuciaMezquida)
 
-</p>
+
