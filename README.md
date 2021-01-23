@@ -16,6 +16,7 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
   - Testing: introduction and good practices at [CodelyTvPro](https://pro.codely.tv/library/)
   - ReactJs: From 0 to deploy following good practices at [CodelyTvPro](https://pro.codely.tv/library/)
   - FrontEnd Developer at <a href="https://adalab.es/" target="_blank">Adalab Digital</a>
+  - HTML, CSS, JavaScript, jQuery, php at [Sololearn](https://www.sololearn.com/)
   - Front End Libraries Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
   - JavaScritpt Algorithms and Data Structures Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
   - Responsive Web Design Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>
