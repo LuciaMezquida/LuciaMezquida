@@ -38,8 +38,9 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
 
 ### Let's talk 📞
  
-![mail](https://img.icons8.com/fluent/20/000000/important-mail.png) <a href='mailto:lucia.mezquida@gmail.com'>Mail me</a>  
-![linkedin](https://img.icons8.com/fluent/20/000000/linkedin-2.png) [Contact me](https://www.linkedin.com/in/luciamezquidajuan/)
-
-
-
+<p align="left">
+<a href="https://codepen.io/latialuci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="latialuci" height="20" /></a>
+<a href="https://twitter.com/LuciCodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucicodes" height="20"/></a>
+<a href="https://linkedin.com/in/luciamezquidajuan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luciamezquidajuan" height="20"/></a>
+<a href="https://www.hackerrank.com/lucia_mezquida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lucia_mezquida" height="20"/></a>
+</p>
