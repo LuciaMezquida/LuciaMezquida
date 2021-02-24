@@ -1,6 +1,6 @@
 <center>
   
-<a href="https://ibb.co/RDdT0My"><img src="https://i.ibb.co/S3Gwn1r/git.png" alt="git" border="0" align='center'></a>
+<a href="https://ibb.co/RDdT0My"><img src="https://i.ibb.co/S3Gwn1r/git.png" alt="logo" border="0" width='100%' ></a>
 
 </center>
 
