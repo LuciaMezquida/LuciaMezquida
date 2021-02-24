@@ -1,6 +1,6 @@
 <center>
-
-![Imgur](https://i.ibb.co/0msb4x3/Captura-de-pantalla-2020-12-03-a-las-20-21-23.png)
+  
+<a href="https://ibb.co/RDdT0My"><img src="https://i.ibb.co/S3Gwn1r/git.png" alt="git" border="0" align='center'></a>
 
 </center>
 
