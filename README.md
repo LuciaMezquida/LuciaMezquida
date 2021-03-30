@@ -27,6 +27,7 @@ After 13 years in the pharmaceutical world, I decided to develop my passion for 
 <a href="https://twitter.com/LuciCodes" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="lucicodes" height="20"/></a>
 <a href="https://linkedin.com/in/luciamezquidajuan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luciamezquidajuan" height="20"/></a>
 <a href="https://www.hackerrank.com/lucia_mezquida" target="_blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-informational?style=flat&logo=hackerrank&logoColor=white&color=green" alt="lucia_mezquida"/></a>
+  <a href="https://medium.com/@lucia.mezquida" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-informational?style=flat&logo=medium&logoColor=white&color=black" alt="lucia_mezquida"/></a>
 </p>
 
 <!--
