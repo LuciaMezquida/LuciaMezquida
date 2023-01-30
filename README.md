@@ -1,7 +1,4 @@
-
-  
-<p align='center'><img src="https://i.ibb.co/S3Gwn1r/git.png" alt="logo" border="0" width='600px'></p>
-
+<p align='center'><img src="https://user-images.githubusercontent.com/62095776/215490434-4e0a7cd7-3da9-495f-bd31-169b58c526af.png" alt="logo" border="0" width='600px'></p>
 
 After 13 years in the pharmaceutical world, I decided to develop my passion for creativity and technology. This is how my approach to the FrontEnd world began
 
